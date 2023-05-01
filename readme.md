@@ -22,6 +22,7 @@
 ## Links
 
 <a href="https://drive.google.com/file/d/13RTJrBaTstHLO5NoVVslOQUy0RGFQ4W7/view?usp=share_link">Vídeo com explicação do notebook</a>
+<br>
 <a href="https://drive.google.com/file/d/1Yfox0YvdaZ-kX8Ikd53tuXbN8G0lRMC5/view?usp=sharing">Base utilizada</a>
 
 <div align="center">
