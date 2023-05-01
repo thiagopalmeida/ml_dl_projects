@@ -2,10 +2,9 @@
 📄<br>Projeto para a cadeira de Processamento de Linguagem Natural com deep learning
 </h1>
 <br>
+
+## Análise de sentimentos para os comentários da Receita Federal no Instagram
 <br>
-<h2 align="center">
-  <br>Análise de sentimentos para os comentários da Receita Federal no Instagram
-</h2>
 
 ## Grupo: Deyvison Camilo, Thiago Pereira
 
