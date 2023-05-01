@@ -3,10 +3,11 @@
 </h1>
 <br>
 
-## Análise de sentimentos para os comentários da Receita Federal no Instagram
+## Grupo: Deyvison Camilo, Thiago Pereira
 <br>
 
-## Grupo: Deyvison Camilo, Thiago Pereira
+## Análise de sentimentos para os comentários da Receita Federal no Instagram
+
 
 > O presente projeto visa fazer um análise de sentimentos com 3 labels (negativo, neutro, positivo) dos comentários de usuários sobre as postagens da Receita Federal no Instagram. Foram coletados 12651 comentários, referentes a 372 postagens promovidas pelo Fisco. Como os comentários não estavam rotulados foi necessário fazer manualmente uma parte (2025 comentários). No restante foi aplicado uma tentativa de rotulagem automática com um processo de clusterização, contudo a aboradagem não gerou bons resultados. Dessa forma, optou-se por prosseguir apenas com os dados rotulados manualmente. Foram utilizados 3 abordagens diferentes no projeto:
 
