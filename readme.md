@@ -19,6 +19,10 @@
 
 ---
 
+## Link para o vídeo contendo a explicação
+
+<a href="https://drive.google.com/file/d/13RTJrBaTstHLO5NoVVslOQUy0RGFQ4W7/view?usp=share_link">Vídeo com explicação do notebook</sub></a>
+
 <div align="center">
   <br/>
   <br/>
